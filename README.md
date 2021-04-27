@@ -23,7 +23,7 @@ You can find the Notebooks, and PDF in the Directory [Phase III](https://github.
 There are 2 versions that have been implemented
 * V1 is the optimization of ANFIS Using Genetic Algortithm over different parameters i.e., number of Layer, params, optimizers, losses.
 * V2 is the optimization of ANFIS Using Genetic Algortithm over different weights of the networks only.
-* 
+
 You can find the Notebooks, and PDF in the Directory [Phase IV](https://github.com/musab-r/Computational_Intelligence_Project/tree/main/Phase%204%20HNGFS)
 
 
