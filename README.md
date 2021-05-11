@@ -12,6 +12,7 @@ Various Models have been implemented i.e.,
 * Bidirectional LSTM, 
 * Convolutional Neural Network 
 * BERT. 
+* Classical Machine Learninng Models
 
 You can find the Notebooks, and PDF in the Directory [Phase II](https://github.com/musab-r/Computational_Intelligence_Project/tree/main/Phase%202%20NN%2C%20FS%2C%20GA)
 
