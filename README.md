@@ -1,6 +1,6 @@
 # Computational_Intelligence_Project
 
-Sentiment Classification on IMDB dataset. Imdb dataset is a large dataset contains 50,000 movies' reviews and classified into 2 classes, Positive and Negative. So there are 3 phases of this project.
+This is the semester Project of Computational Intelligence offered at LUMS. And i have done working on Sentiment Classification on IMDB dataset. Imdb dataset is a large dataset contains 50,000 movies' reviews and classified into 2 classes, Positive and Negative. So there are 3 phases of this project.
 
 ## Phase I| IMDB Sentiment Analysis
 
